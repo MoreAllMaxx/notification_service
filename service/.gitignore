@@ -1,0 +1,4 @@
+service/settings.py
+venv/
+service/notify/management/commands/notification service.log
+db.sqlite3
